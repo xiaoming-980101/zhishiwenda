@@ -1,0 +1,1466 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "category": "平台定义",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "负责公司底层数据归集、流程协同和资源调度的核心平台是哪个？",
+    "options": [
+      { "label": "A", "text": "星辰" },
+      { "label": "B", "text": "卡控" },
+      { "label": "C", "text": "赢商城" },
+      { "label": "D", "text": "速度猫" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "卡控 AI 平台是公司底层数据中枢与业务中台。",
+    "proof": "卡控 AI 平台（综合权益换购与兑换平台）定位为“公司底层数据中枢与业务中台，负责全产品线的数据归集、流程协同、资源调度，互联网精准营销”。"
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "category": "平台定义",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "主要负责银行活动配置和前端活动设计的平台是哪个？",
+    "options": [
+      { "label": "A", "text": "星辰" },
+      { "label": "B", "text": "卡控" },
+      { "label": "C", "text": "赢商城" },
+      { "label": "D", "text": "速度猫" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "A",
+    "explanation": "星辰 AI 链 SAAS 平台主要负责前端活动设计。",
+    "proof": "星辰 AI 链 SAAS 平台定位为“银行活动配置、线上线下联动数字营销服务平台，主要负责前端活动设计”。"
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "category": "产品归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "下面哪个产品属于卡控平台专属产品？",
+    "options": [
+      { "label": "A", "text": "智捷通" },
+      { "label": "B", "text": "物销易" },
+      { "label": "C", "text": "智企推" },
+      { "label": "D", "text": "慧商通" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "智企推和好车服为卡控平台专属产品。",
+    "proof": "文档在“卡控平台专属产品”中列出“智企推”“好车服”。"
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "category": "产品归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "所有 B2B、B2C、C2C、F2C 等电商模式统一使用哪个产品名称？",
+    "options": [
+      { "label": "A", "text": "智捷通" },
+      { "label": "B", "text": "慧商通" },
+      { "label": "C", "text": "数益达" },
+      { "label": "D", "text": "智企推" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "多模态赢商城平台无论何种交易模式，统一使用慧商通。",
+    "proof": "文档原句：“无论业务采用 B2B、B2C、C2C、F2C 等何种交易模式，统一使用‘慧商通’作为产品名称。”"
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "category": "收入归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "业务使用哪个前端平台，收入就归哪个平台。这句话体现的是哪项原则？",
+    "options": [
+      { "label": "A", "text": "唯一命名原则" },
+      { "label": "B", "text": "合同优先原则" },
+      { "label": "C", "text": "路径与收入归属原则" },
+      { "label": "D", "text": "分子公司独立核算原则" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "文档 4.2 明确统一了路径与收入归属原则。",
+    "proof": "文档原句：”业务使用哪个前端平台，收入即归该平台。”"
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "category": "业务场景",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "某数字权益活动通过星辰平台设计并执行，应选择哪个产品？",
+    "options": [
+      { "label": "A", "text": "智捷通" },
+      { "label": "B", "text": "数益达" },
+      { "label": "C", "text": "物销易" },
+      { "label": "D", "text": "慧商通" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "数字权益活动对应数益达，通过星辰平台设计则归星辰。",
+    "proof": "附件场景七原句：”某数字权益活动通过星辰平台设计并执行。产品名称：数益达；归属平台：星辰；收入归属：星辰平台。”"
+  },
+  {
+    "id": 7,
+    "type": "judge",
+    "category": "收入归属",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "外部直发业务统一通过赢商城记录，产品名称使用慧商通。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "原路径 C 在新体系中统一映射为赢商城平台下的慧商通。",
+    "proof": "文档对应关系写明：”路径 C（外部直发）……赢商城平台……慧商通……外部直发业务通过赢商城记录，收入归赢商城。”"
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "category": "业务场景",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "与第三方合作代驾服务，通过平台对接，应优先选择哪个产品？",
+    "options": [
+      { "label": "A", "text": "好车服" },
+      { "label": "B", "text": "智企推" },
+      { "label": "C", "text": "数益达" },
+      { "label": "D", "text": "物销易" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "A",
+    "explanation": "代驾属于车生活服务，归好车服。",
+    "proof": "附件场景四原句：”与第三方合作代驾服务，通过好车服平台对接。产品名称：好车服；归属平台：卡控。”"
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "category": "业务场景",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "保险精准营销推广服务，通过卡控平台执行，应选择哪个产品？",
+    "options": [
+      { "label": "A", "text": "慧商通" },
+      { "label": "B", "text": "智企推" },
+      { "label": "C", "text": "智捷通" },
+      { "label": "D", "text": "闪充" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "保险精准营销、媒介投放、图文设计等推广类业务均归智企推。",
+    "proof": "智企推业务说明包含”银行分期推广、媒介投放、图文设计、保险精准营销、推广策划”等，并注明归属平台为卡控。"
+  },
+  {
+    "id": 10,
+    "type": "judge",
+    "category": "平台归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "产品名称本身就包含平台信息，因此不用再填写归属平台字段。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": false,
+    "explanation": "产品名称本身不包含平台信息，业务记录中必须明确归属平台字段。",
+    "proof": "文档原句：”产品名称本身不包含平台信息……必须在业务记录中明确归属平台字段。”"
+  },
+  {
+    "id": 11,
+    "type": "judge",
+    "category": "收入归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "智捷通、数益达、物销易可以在卡控平台和星辰平台使用。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "这三个产品是通用型产品，可归属多个平台。",
+    "proof": "文档说明：”智捷通、数益达、物销易三个产品可在卡控平台使用，也可在星辰平台使用。”"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "category": "业务场景",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "某快捷支付营销活动通过卡控平台分发，由供应商直接发货，应选择哪个产品？",
+    "options": [
+      { "label": "A", "text": "智捷通" },
+      { "label": "B", "text": "物销易" },
+      { "label": "C", "text": "数益达" },
+      { "label": "D", "text": "慧商通" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "A",
+    "explanation": "快捷支付营销对应智捷通，通过卡控平台分发则归卡控。",
+    "proof": "智捷通业务说明为”通过平台进行快捷支付活动设计”；文档对应关系写明”路径 B（通过卡控分发）……智捷通……收入归卡控”。"
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "category": "产品归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "下面哪个产品属于通用型产品？",
+    "options": [
+      { "label": "A", "text": "好车服" },
+      { "label": "B", "text": "智企推" },
+      { "label": "C", "text": "数益达" },
+      { "label": "D", "text": "闪充" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "数益达属于通用型产品，可归属卡控或星辰。",
+    "proof": "文档”通用型产品（可归属多个平台）”中列出数益达。"
+  },
+  {
+    "id": 14,
+    "type": "judge",
+    "category": "收入归属",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "通用型产品的收入归属要看产品名称，而不是看实际发生的平台。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": false,
+    "explanation": "通用型产品虽然名称相同，但收入归属看实际发生的平台。",
+    "proof": "文档原句：”智捷通、数益达、物销易三个产品在卡控和星辰平台均可使用……收入即归该平台。”"
+  },
+  {
+    "id": 15,
+    "type": "judge",
+    "category": "平台归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "星辰平台的核心作用是前端活动设计，卡控平台的核心作用是数据归集与业务中台。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "这是两个平台最核心的定位差异。",
+    "proof": "文档原句分别说明：星辰”主要负责前端活动设计”；卡控”负责全产品线的数据归集、流程协同、资源调度”。"
+  },
+  {
+    "id": 16,
+    "type": "judge",
+    "category": "产品定义",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "慧商通属于赢商城平台专属产品。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "慧商通统一归赢商城平台。",
+    "proof": "文档”多模态赢商城平台专属产品”部分明确将慧商通归属赢商城。"
+  },
+  {
+    "id": 17,
+    "type": "judge",
+    "category": "场景判断",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "保险精准营销推广服务和车生活服务都归属卡控平台。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "前者对应智企推，后者对应好车服，二者都属于卡控平台专属。",
+    "proof": "文档”卡控平台专属产品”及附件场景四、场景六均表明收入归卡控平台。"
+  },
+  {
+    "id": 18,
+    "type": "single",
+    "category": "场景判断",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "某银行微信立减金活动通过星辰平台配置后由供应商直发，应判断为哪组”产品 + 平台”？",
+    "options": [
+      { "label": "A", "text": "智捷通 + 星辰" },
+      { "label": "B", "text": "智捷通 + 卡控" },
+      { "label": "C", "text": "慧商通 + 赢商城" },
+      { "label": "D", "text": "数益达 + 星辰" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "A",
+    "explanation": "微信立减金属于快捷支付营销，对应智捷通；通过星辰前端配置，则归星辰。",
+    "proof": "附件场景一原句：”产品名称：智捷通；归属平台：星辰；收入归属：星辰平台。”"
+  },
+  {
+    "id": 19,
+    "type": "single",
+    "category": "场景判断",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "某数字权益订单直接通过卡控平台分发，无前端设计，应判断为哪组”产品 + 平台”？",
+    "options": [
+      { "label": "A", "text": "数益达 + 卡控" },
+      { "label": "B", "text": "数益达 + 星辰" },
+      { "label": "C", "text": "慧商通 + 赢商城" },
+      { "label": "D", "text": "物销易 + 卡控" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "A",
+    "explanation": "数字权益对应数益达，直接通过卡控分发则归卡控。",
+    "proof": "附件场景二原句：”产品名称：数益达；归属平台：卡控；收入归属：卡控平台。”"
+  },
+  {
+    "id": 20,
+    "type": "single",
+    "category": "场景判断",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "某企业通过赢商城采购一批实物礼品用于员工福利，应判断为哪组”产品 + 平台”？",
+    "options": [
+      { "label": "A", "text": "物销易 + 星辰" },
+      { "label": "B", "text": "慧商通 + 赢商城" },
+      { "label": "C", "text": "智捷通 + 卡控" },
+      { "label": "D", "text": "好车服 + 卡控" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "企业在赢商城采购实物礼品属于赢商城电商场景，对应慧商通。",
+    "proof": "附件场景三原句：”产品名称：慧商通；归属平台：赢商城；收入归属：赢商城平台。”"
+  },
+  {
+    "id": 21,
+    "type": "judge",
+    "category": "场景判断",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "某数字权益活动通过星辰平台设计并执行，产品应判断为数益达，收入归星辰平台。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "数字权益对应数益达，通过星辰平台设计则归星辰。",
+    "proof": "附件场景七原句：”产品名称：数益达；归属平台：星辰；收入归属：星辰平台。”"
+  },
+  {
+    "id": 22,
+    "type": "judge",
+    "category": "系统配置",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "卡控平台需要增加”产品名称”和”归属平台”两个关键字段。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "文档明确要求卡控平台增加这两个字段以便业务标注。",
+    "proof": "文档原句：”卡控平台需要增加产品名称和归属平台字段。”"
+  },
+  {
+    "id": 23,
+    "type": "judge",
+    "category": "合同管理",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "合同首页或显著位置必须标注产品名称，确保合同与业务一一对应。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "这是合同标注的核心要求。",
+    "proof": "文档原句：”合同首页或显著位置必须标注产品名称，确保合同与业务一一对应。”"
+  },
+  {
+    "id": 24,
+    "type": "judge",
+    "category": "合同管理",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "结算单和发票等财务凭证不需要同步使用产品名称。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": false,
+    "explanation": "结算单和发票等财务凭证也要同步使用产品名称。",
+    "proof": "文档原句：”结算单和发票等财务凭证也要同步使用产品名称。”"
+  },
+  {
+    "id": 25,
+    "type": "single",
+    "category": "申报流程",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "新增业务如果没有现成产品可选，应该先做什么？",
+    "options": [
+      { "label": "A", "text": "直接开展业务，事后补填" },
+      { "label": "B", "text": "填写《新产品申报表》，报数字产品部审批" },
+      { "label": "C", "text": "向财务部申请临时产品名称" },
+      { "label": "D", "text": "使用最接近的现有产品名称替代" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "新增业务必须先申报审批，定义新产品后方可开展。",
+    "proof": "文档原句：”新增业务……需填写《新产品申报表》，报数字产品部审批并定义新产品后，方可开展业务。”"
+  },
+  {
+    "id": 26,
+    "type": "judge",
+    "category": "申报流程",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "新增业务可以先开展，等产品名称确定后再补填即可。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": false,
+    "explanation": "新增业务必须先审批定义产品，才能开展业务，不能事后补填。",
+    "proof": "文档原句：”需填写《新产品申报表》，报数字产品部审批并定义新产品后，方可开展业务。”"
+  },
+  {
+    "id": 27,
+    "type": "single",
+    "category": "数据归集",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "历史业务数据归集时，各部门需要梳理哪一时间段的合同、结算单、银行流水？",
+    "options": [
+      { "label": "A", "text": "2023年至今" },
+      { "label": "B", "text": "2024年至今" },
+      { "label": "C", "text": "2025年至今" },
+      { "label": "D", "text": "公司成立以来所有数据" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "历史数据归集范围是2024年至今。",
+    "proof": "文档原句：”各部门要梳理2024年至今所有合同、结算单、银行流水。”"
+  },
+  {
+    "id": 28,
+    "type": "judge",
+    "category": "数据归集",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "没有自动抓取接口时，需要在卡控后台补录必要的过程信息和业财数据。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "手工补录是历史数据归集的重要环节。",
+    "proof": "文档原句：”没有自动抓取接口时，要在卡控后台补录必要过程信息和业财数据。”"
+  },
+  {
+    "id": 29,
+    "type": "single",
+    "category": "培训监督",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "本规则将作为哪类人员的必修课？",
+    "options": [
+      { "label": "A", "text": "仅财务部人员" },
+      { "label": "B", "text": "仅数字产品部人员" },
+      { "label": "C", "text": "新员工入职必修课，现有员工需通过专项培训考核" },
+      { "label": "D", "text": "仅业务部门负责人" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "规则适用于全体员工，新员工必修，现有员工需通过考核。",
+    "proof": "文档原句：”规则将作为新员工入职必修课，现有员工要通过专项培训考核。”"
+  },
+  {
+    "id": 30,
+    "type": "single",
+    "category": "培训监督",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "财务部对业务标注情况的抽查频率是？",
+    "options": [
+      { "label": "A", "text": "每月一次" },
+      { "label": "B", "text": "每季度一次" },
+      { "label": "C", "text": "每半年一次" },
+      { "label": "D", "text": "每年一次" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "财务部每季度抽查业务标注情况。",
+    "proof": "文档原句：”财务部每季度抽查。”"
+  },
+  {
+    "id": 31,
+    "type": "judge",
+    "category": "规则生效",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "本规则自发布之日起生效，最终解释权归总经办所有。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "这是规则的生效时间和解释权归属。",
+    "proof": "文档原句：”本规则自发布之日起生效，最终解释权归总经办所有。”"
+  },
+  {
+    "id": 32,
+    "type": "single",
+    "category": "规则调整",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "产品体系调整需经哪个部门批准？",
+    "options": [
+      { "label": "A", "text": "数字产品部" },
+      { "label": "B", "text": "财务部" },
+      { "label": "C", "text": "总经办" },
+      { "label": "D", "text": "人力资源部" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "产品体系调整需经总经办批准。",
+    "proof": "文档原句：”产品体系调整需经总经办批准。”"
+  },
+  {
+    "id": 33,
+    "type": "single",
+    "category": "SOP手册",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "SOP手册由哪个部门牵头制定并下发执行？",
+    "options": [
+      { "label": "A", "text": "财务部" },
+      { "label": "B", "text": "数字产品部" },
+      { "label": "C", "text": "总经办" },
+      { "label": "D", "text": "人力资源部" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "B",
+    "explanation": "数字产品部牵头制定SOP手册，经总经办批准后下发执行。",
+    "proof": "文档原句：”数字产品部需牵头制定SOP手册并下发执行。”"
+  },
+  {
+    "id": 34,
+    "type": "judge",
+    "category": "手工录入",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "手工录入业务时，必须正确选择产品名称和归属信息，并填写必要的过程信息。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "这是手工录入业务的核心要求。",
+    "proof": "文档原句：”手工录入业务要正确选择产品名称和归属信息，并填写必要过程信息。”"
+  },
+  {
+    "id": 35,
+    "type": "judge",
+    "category": "分子公司",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "速度猫共享充电平台纳入卡赢三大核心平台产品体系，收入由卡控统一核算。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": false,
+    "explanation": "速度猫是控股子公司独立运营，不纳入三大核心平台，收入独立核算。",
+    "proof": "文档原句：”速度猫……不纳入卡赢三大核心平台产品体系，收入独立核算。”"
+  },
+  {
+    "id": 36,
+    "type": "single",
+    "category": "分子公司",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "速度猫共享充电平台对应的产品名称是什么？",
+    "options": [
+      { "label": "A", "text": "慧商通" },
+      { "label": "B", "text": "好车服" },
+      { "label": "C", "text": "闪充" },
+      { "label": "D", "text": "智企推" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "速度猫对应产品是闪充，业务场景是共享充电。",
+    "proof": "文档原句：”速度猫……对应产品是闪充，业务场景是共享充电设备运营及服务分成。”"
+  },
+  {
+    "id": 37,
+    "type": "single",
+    "category": "业务场景",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "以下哪项服务不属于好车服承接的车生活服务范围？",
+    "options": [
+      { "label": "A", "text": "洗车服务" },
+      { "label": "B", "text": "代驾服务" },
+      { "label": "C", "text": "保险精准营销推广" },
+      { "label": "D", "text": "车险咨询" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "保险精准营销推广属于智企推的业务范围，不是好车服的车生活服务。",
+    "proof": "文档原句：好车服承接”汽车安全检测、洗车、代驾、车险咨询等车生活服务”；智企推承接”保险精准营销”。"
+  },
+  {
+    "id": 38,
+    "type": "single",
+    "category": "业务场景",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "以下哪项业务属于智企推承接的营销推广类业务？",
+    "options": [
+      { "label": "A", "text": "洗车服务" },
+      { "label": "B", "text": "代驾服务" },
+      { "label": "C", "text": "媒介投放" },
+      { "label": "D", "text": "企业福利采购" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": "C",
+    "explanation": "媒介投放属于智企推的营销推广业务范围。",
+    "proof": "文档原句：智企推承接”银行分期推广、媒介投放、图文设计、保险精准营销、推广策划”等。"
+  },
+  {
+    "id": 39,
+    "type": "judge",
+    "category": "系统配置",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "各业务平台需要与卡控平台对接，自动携带产品标签和归属信息。",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": true,
+    "explanation": "这是平台对接的核心要求。",
+    "proof": "文档原句：”各业务平台要与卡控平台对接，自动携带产品标签和归属信息。”"
+  },
+  {
+    "id": 101,
+    "type": "multiple",
+    "category": "平台定义",
+    "tags": ["卡控","星辰","赢商城"],
+    "difficulty": "基础",
+    "stem": "以下哪些是卡赢科技的三大核心业务平台？",
+    "options": [
+      { "label": "A", "text": "卡控" },
+      { "label": "B", "text": "星辰" },
+      { "label": "C", "text": "赢商城" },
+      { "label": "D", "text": "速度猫" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B","C"],
+    "explanation": "卡控、星辰、赢商城是三大核心平台，速度猫是控股子公司独立运营。",
+    "proof": "文档”公司现有三大核心业务平台”部分明确列出卡控、星辰、赢商城。"
+  },
+  {
+    "id": 102,
+    "type": "multiple",
+    "category": "产品归属",
+    "tags": ["智捷通","数益达","物销易"],
+    "difficulty": "基础",
+    "stem": "以下哪些产品属于通用型产品，可在卡控和星辰平台使用？",
+    "options": [
+      { "label": "A", "text": "智捷通" },
+      { "label": "B", "text": "智企推" },
+      { "label": "C", "text": "数益达" },
+      { "label": "D", "text": "物销易" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","C","D"],
+    "explanation": "智捷通、数益达、物销易是通用型产品；智企推是卡控专属产品。",
+    "proof": "文档”通用型产品（可归属多个平台）”中列出智捷通、数益达、物销易。"
+  },
+  {
+    "id": 103,
+    "type": "multiple",
+    "category": "产品归属",
+    "tags": ["智企推","好车服","卡控"],
+    "difficulty": "基础",
+    "stem": "以下哪些产品属于卡控平台专属产品？",
+    "options": [
+      { "label": "A", "text": "智企推" },
+      { "label": "B", "text": "好车服" },
+      { "label": "C", "text": "慧商通" },
+      { "label": "D", "text": "智捷通" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B"],
+    "explanation": "智企推和好车服是卡控平台专属产品；慧商通归属赢商城，智捷通是通用型产品。",
+    "proof": "文档”卡控平台专属产品”部分明确列出智企推、好车服。"
+  },
+  {
+    "id": 104,
+    "type": "multiple",
+    "category": "业务场景",
+    "tags": ["智企推","保险营销","媒介投放"],
+    "difficulty": "进阶",
+    "stem": "智企推承接的业务类型包括以下哪些？",
+    "options": [
+      { "label": "A", "text": "银行分期推广" },
+      { "label": "B", "text": "媒介投放" },
+      { "label": "C", "text": "保险精准营销" },
+      { "label": "D", "text": "洗车服务" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B","C"],
+    "explanation": "智企推承接营销推广类业务；洗车服务属于好车服的业务范围。",
+    "proof": "文档智企推业务说明包含”银行分期推广、媒介投放、图文设计、保险精准营销、推广策划”。"
+  },
+  {
+    "id": 105,
+    "type": "multiple",
+    "category": "业务场景",
+    "tags": ["好车服","车生活"],
+    "difficulty": "进阶",
+    "stem": "好车服承接的车生活服务包括以下哪些？",
+    "options": [
+      { "label": "A", "text": "洗车服务" },
+      { "label": "B", "text": "代驾服务" },
+      { "label": "C", "text": "车险咨询" },
+      { "label": "D", "text": "媒介投放" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B","C"],
+    "explanation": "好车服承接车生活服务；媒介投放属于智企推的业务范围。",
+    "proof": "文档好车服业务说明包含”汽车安全检测、洗车、代驾、车险咨询等车生活服务”。"
+  },
+  {
+    "id": 106,
+    "type": "multiple",
+    "category": "收入归属",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "关于收入归属原则，以下说法正确的有哪些？",
+    "options": [
+      { "label": "A", "text": "业务使用哪个前端平台，收入就归哪个平台" },
+      { "label": "B", "text": "通用型产品的收入归属看产品名称，不看实际平台" },
+      { "label": "C", "text": "外部直发业务通过赢商城记录，收入归赢商城" },
+      { "label": "D", "text": "速度猫收入独立核算，不纳入三大核心平台" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","C","D"],
+    "explanation": "B选项错误：通用型产品收入归属看实际发生的平台，不看产品名称。",
+    "proof": "文档4.2明确收入归属原则；速度猫章节说明收入独立核算。"
+  },
+  {
+    "id": 107,
+    "type": "multiple",
+    "category": "系统配置",
+    "tags": ["卡控","字段"],
+    "difficulty": "基础",
+    "stem": "卡控平台需要增加以下哪些关键字段？",
+    "options": [
+      { "label": "A", "text": "产品名称" },
+      { "label": "B", "text": "归属平台" },
+      { "label": "C", "text": "供应商名称" },
+      { "label": "D", "text": "合同编号" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B"],
+    "explanation": "文档明确要求卡控平台增加”产品名称”和”归属平台”两个关键字段。",
+    "proof": "文档原句：”卡控平台需要增加产品名称和归属平台字段。”"
+  },
+  {
+    "id": 108,
+    "type": "multiple",
+    "category": "合同管理",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "以下关于合同标注的要求，哪些是正确的？",
+    "options": [
+      { "label": "A", "text": "合同首页或显著位置必须标注产品名称" },
+      { "label": "B", "text": "结算单需要同步使用产品名称" },
+      { "label": "C", "text": "发票需要同步使用产品名称" },
+      { "label": "D", "text": "合同只需标注合同编号即可" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B","C"],
+    "explanation": "合同必须标注产品名称，结算单和发票也要同步使用；D选项错误。",
+    "proof": "文档原句：”合同首页或显著位置必须标注产品名称……结算单和发票等财务凭证也要同步使用产品名称。”"
+  },
+  {
+    "id": 109,
+    "type": "multiple",
+    "category": "申报流程",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "新增业务申报流程中，以下哪些步骤是必须的？",
+    "options": [
+      { "label": "A", "text": "填写《新产品申报表》" },
+      { "label": "B", "text": "报数字产品部审批" },
+      { "label": "C", "text": "定义新产品后方可开展业务" },
+      { "label": "D", "text": "可以先开展业务，事后补填申报表" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B","C"],
+    "explanation": "必须先申报审批、定义产品后才能开展业务；D选项错误。",
+    "proof": "文档原句：”需填写《新产品申报表》，报数字产品部审批并定义新产品后，方可开展业务。”"
+  },
+  {
+    "id": 110,
+    "type": "multiple",
+    "category": "培训监督",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "关于规则的培训与监督，以下说法正确的有哪些？",
+    "options": [
+      { "label": "A", "text": "规则是新员工入职必修课" },
+      { "label": "B", "text": "现有员工需通过专项培训考核" },
+      { "label": "C", "text": "财务部每月抽查业务标注情况" },
+      { "label": "D", "text": "产品体系调整需经总经办批准" }
+    ],
+    "fillSlots": null,
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["A","B","D"],
+    "explanation": "C选项错误：财务部每季度抽查，不是每月。",
+    "proof": "文档原句：”规则将作为新员工入职必修课，现有员工要通过专项培训考核”；”财务部每季度抽查”；”产品体系调整需经总经办批准”。"
+  },
+  {
+    "id": 201,
+    "type": "fillBlank",
+    "category": "平台定义",
+    "tags": ["卡控"],
+    "difficulty": "入门",
+    "stem": "卡控 AI 平台定位为公司底层数据中枢与业务中台，负责数据归集、流程协同、资源调度和____营销。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["互联网精准","精准"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["互联网精准"],
+    "explanation": "卡控平台负责互联网精准营销。",
+    "proof": "文档原句：”卡控 AI 平台……负责全产品线的数据归集、流程协同、资源调度，互联网精准营销”。"
+  },
+  {
+    "id": 202,
+    "type": "fillBlank",
+    "category": "平台定义",
+    "tags": ["星辰"],
+    "difficulty": "入门",
+    "stem": "星辰 AI 链 SAAS 平台主要负责____活动设计。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["前端","银行活动配置","活动"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["前端"],
+    "explanation": "星辰平台主要负责前端活动设计。",
+    "proof": "文档原句：”星辰 AI 链 SAAS 平台……主要负责前端活动设计”。"
+  },
+  {
+    "id": 203,
+    "type": "fillBlank",
+    "category": "平台定义",
+    "tags": ["赢商城"],
+    "difficulty": "入门",
+    "stem": "赢商城是面向____、B2C、C2C、F2C 的电商平台。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["B2B"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["B2B"],
+    "explanation": "赢商城覆盖 B2B、B2C、C2C、F2C 等交易模式。",
+    "proof": "文档原句：”多模态赢商城平台……覆盖 B2B、B2C、C2C、F2C 等交易模式”。"
+  },
+  {
+    "id": 204,
+    "type": "fillBlank",
+    "category": "产品归属",
+    "tags": ["慧商通"],
+    "difficulty": "基础",
+    "stem": "无论业务采用何种交易模式，赢商城平台统一使用____作为产品名称。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["慧商通"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["慧商通"],
+    "explanation": "赢商城平台统一使用慧商通作为产品名称。",
+    "proof": "文档原句：”无论业务采用 B2B、B2C、C2C、F2C 等何种交易模式，统一使用’慧商通’作为产品名称。”"
+  },
+  {
+    "id": 205,
+    "type": "fillBlank",
+    "category": "产品归属",
+    "tags": ["智捷通","数益达","物销易"],
+    "difficulty": "基础",
+    "stem": "智捷通、____、物销易三个产品是通用型产品，可在卡控和星辰平台使用。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["数益达"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["数益达"],
+    "explanation": "数益达是通用型产品之一。",
+    "proof": "文档”通用型产品（可归属多个平台）”中列出智捷通、数益达、物销易。"
+  },
+  {
+    "id": 206,
+    "type": "fillBlank",
+    "category": "产品归属",
+    "tags": ["智企推","好车服"],
+    "difficulty": "基础",
+    "stem": "卡控平台专属产品包括____和好车服。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["智企推"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["智企推"],
+    "explanation": "智企推和好车服是卡控平台专属产品。",
+    "proof": "文档”卡控平台专属产品”部分明确列出智企推、好车服。"
+  },
+  {
+    "id": 207,
+    "type": "fillBlank",
+    "category": "收入归属",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "收入归属的核心原则是：业务使用哪个____平台，收入就归哪个平台。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["前端"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["前端"],
+    "explanation": "业务使用哪个前端平台，收入就归哪个平台。",
+    "proof": "文档原句：”业务使用哪个前端平台，收入即归该平台。”"
+  },
+  {
+    "id": 208,
+    "type": "fillBlank",
+    "category": "收入归属",
+    "tags": ["外部直发"],
+    "difficulty": "进阶",
+    "stem": "外部直发业务通过____平台记录，产品名称使用慧商通。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["赢商城"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["赢商城"],
+    "explanation": "外部直发业务通过赢商城记录。",
+    "proof": "文档对应关系：”路径 C（外部直发）……赢商城平台……慧商通”。"
+  },
+  {
+    "id": 209,
+    "type": "fillBlank",
+    "category": "分子公司",
+    "tags": ["速度猫","闪充"],
+    "difficulty": "基础",
+    "stem": "速度猫共享充电平台对应的产品名称是____。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["闪充"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["闪充"],
+    "explanation": "速度猫对应产品是闪充。",
+    "proof": "文档原句：”速度猫……对应产品是闪充”。"
+  },
+  {
+    "id": 210,
+    "type": "fillBlank",
+    "category": "申报流程",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "新增业务需填写《____》，报数字产品部审批并定义新产品后方可开展业务。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["新产品申报表"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["新产品申报表"],
+    "explanation": "必须填写新产品申报表。",
+    "proof": "文档原句：”需填写《新产品申报表》，报数字产品部审批并定义新产品后，方可开展业务。”"
+  },
+  {
+    "id": 211,
+    "type": "fillBlank",
+    "category": "合同管理",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "合同首页或显著位置必须标注____名称。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["产品"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["产品"],
+    "explanation": "合同必须标注产品名称。",
+    "proof": "文档原句：”合同首页或显著位置必须标注产品名称。”"
+  },
+  {
+    "id": 212,
+    "type": "fillBlank",
+    "category": "系统配置",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "卡控平台需要增加____和归属平台两个关键字段。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["产品名称"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["产品名称"],
+    "explanation": "卡控平台需要增加产品名称字段。",
+    "proof": "文档原句：”卡控平台需要增加产品名称和归属平台字段。”"
+  },
+  {
+    "id": 213,
+    "type": "fillBlank",
+    "category": "数据归集",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "历史业务数据归集时，各部门要梳理____年至今所有合同、结算单、银行流水。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["2024"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["2024"],
+    "explanation": "历史数据归集范围是2024年至今。",
+    "proof": "文档原句：”各部门要梳理2024年至今所有合同、结算单、银行流水。”"
+  },
+  {
+    "id": 214,
+    "type": "fillBlank",
+    "category": "培训监督",
+    "tags": [],
+    "difficulty": "基础",
+    "stem": "财务部每____抽查业务标注情况。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["季度"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["季度"],
+    "explanation": "财务部每季度抽查。",
+    "proof": "文档原句：”财务部每季度抽查。”"
+  },
+  {
+    "id": 215,
+    "type": "fillBlank",
+    "category": "规则调整",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "产品体系调整需经____批准。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["总经办"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["总经办"],
+    "explanation": "产品体系调整需经总经办批准。",
+    "proof": "文档原句：”产品体系调整需经总经办批准。”"
+  },
+  {
+    "id": 216,
+    "type": "fillBlank",
+    "category": "SOP手册",
+    "tags": [],
+    "difficulty": "进阶",
+    "stem": "____需牵头制定SOP手册并下发执行。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["数字产品部"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["数字产品部"],
+    "explanation": "数字产品部牵头制定SOP手册。",
+    "proof": "文档原句：”数字产品部需牵头制定SOP手册并下发执行。”"
+  },
+  {
+    "id": 217,
+    "type": "fillBlank",
+    "category": "规则生效",
+    "tags": [],
+    "difficulty": "入门",
+    "stem": "本规则自发布之日起生效，最终解释权归____所有。",
+    "options": null,
+    "fillSlots": [
+      { "slotId": 1, "placeholder": "____", "keywords": ["总经办"] }
+    ],
+    "scenarioDesc": null,
+    "subQuestions": null,
+    "answer": ["总经办"],
+    "explanation": "最终解释权归总经办。",
+    "proof": "文档原句：”本规则自发布之日起生效，最终解释权归总经办所有。”"
+  },
+  {
+    "id": 301,
+    "type": "scenario",
+    "category": "综合场景",
+    "tags": ["微信立减金","星辰","智捷通"],
+    "difficulty": "进阶",
+    "stem": "微信立减金营销活动场景分析",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": "某银行开展微信立减金营销活动，通过星辰平台进行活动配置和前端设计，活动结束后由供应商直接发货给用户。银行客户在支付时可以使用立减金抵扣。",
+    "subQuestions": [
+      {
+        "subId": 1,
+        "type": "judge",
+        "stem": "微信立减金属于快捷支付营销业务，应判断为智捷通产品。",
+        "options": null,
+        "fillSlots": null,
+        "answer": true,
+        "explanation": "微信立减金是银行快捷支付营销的一种形式，对应智捷通产品。",
+        "proof": "智捷通承接银行分期推广、微信立减金等快捷支付营销业务。",
+        "score": 5
+      },
+      {
+        "subId": 2,
+        "type": "multiple",
+        "stem": "以下关于智捷通的说法，哪些是正确的？",
+        "options": [
+          { "label": "A", "text": "智捷通是通用型产品" },
+          { "label": "B", "text": "智捷通只能在卡控平台使用" },
+          { "label": "C", "text": "智捷通承接的业务包括银行分期推广" },
+          { "label": "D", "text": "智捷通收入归属取决于实际使用的平台" }
+        ],
+        "fillSlots": null,
+        "answer": ["A","C","D"],
+        "explanation": "B选项错误：智捷通是通用型产品，可在卡控或星辰平台使用。",
+        "proof": "智捷通、数益达、物销易是通用型产品；收入归属看实际使用的平台。",
+        "score": 5
+      },
+      {
+        "subId": 3,
+        "type": "fillBlank",
+        "stem": "收入归属的核心原则是：业务使用哪个____平台，收入就归哪个平台。",
+        "options": null,
+        "fillSlots": [
+          { "slotId": 1, "placeholder": "____", "keywords": ["前端"] }
+        ],
+        "answer": ["前端"],
+        "explanation": "收入归属看前端平台，不是看产品名称或数据存储位置。",
+        "proof": "文档明确规定：业务使用哪个前端平台，收入即归该平台。",
+        "score": 5
+      }
+    ],
+    "answer": [],
+    "explanation": "场景题综合考察产品识别、产品特性和核心规则记忆。",
+    "proof": "参考文档智捷通业务定义及收入归属原则。"
+  },
+  {
+    "id": 302,
+    "type": "scenario",
+    "category": "综合场景",
+    "tags": ["数字权益","卡控","数益达"],
+    "difficulty": "进阶",
+    "stem": "数字权益采购场景分析",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": "某电商平台需要采购数字权益商品（如视频会员、话费充值卡）用于用户积分兑换。业务通过卡控平台进行供应商对接和订单管理，商品由供应商直接发货给用户。",
+    "subQuestions": [
+      {
+        "subId": 1,
+        "type": "judge",
+        "stem": "数字权益商品采购业务应判断为数益达产品。",
+        "options": null,
+        "fillSlots": null,
+        "answer": true,
+        "explanation": "数益达负责数字权益商品的采购和分发业务。",
+        "proof": "数益达承接视频会员、话费充值卡等数字权益业务。",
+        "score": 5
+      },
+      {
+        "subId": 2,
+        "type": "multiple",
+        "stem": "以下关于数益达的说法，哪些是正确的？",
+        "options": [
+          { "label": "A", "text": "数益达是卡控专属产品" },
+          { "label": "B", "text": "数益达是通用型产品" },
+          { "label": "C", "text": "数益达可在星辰平台使用" },
+          { "label": "D", "text": "数益达只能处理实物商品" }
+        ],
+        "fillSlots": null,
+        "answer": ["B","C"],
+        "explanation": "A选项错误：数益达是通用型产品，不是卡控专属；D选项错误：数益达处理数字权益，不是实物。",
+        "proof": "智捷通、数益达、物销易是通用型产品，可在卡控或星辰平台使用。",
+        "score": 5
+      },
+      {
+        "subId": 3,
+        "type": "fillBlank",
+        "stem": "通用型产品的收入归属看实际发生的____，不看产品名称。",
+        "options": null,
+        "fillSlots": [
+          { "slotId": 1, "placeholder": "____", "keywords": ["平台","前端平台"] }
+        ],
+        "answer": ["平台"],
+        "explanation": "通用型产品可在多平台使用，收入归属看实际使用的平台。",
+        "proof": "文档明确规定：通用型产品收入归属看实际发生的平台。",
+        "score": 5
+      }
+    ],
+    "answer": [],
+    "explanation": "考察数字权益产品识别、产品特性辨析和收入规则记忆。",
+    "proof": "参考文档数益达业务定义及通用型产品说明。"
+  },
+  {
+    "id": 303,
+    "type": "scenario",
+    "category": "综合场景",
+    "tags": ["车生活服务","好车服","卡控"],
+    "difficulty": "进阶",
+    "stem": "车生活服务场景分析",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": "某保险公司需要为车险用户提供洗车服务权益。业务通过卡控平台配置服务商和核销规则，用户在合作洗车店消费时出示核销码即可享受服务。",
+    "subQuestions": [
+      {
+        "subId": 1,
+        "type": "judge",
+        "stem": "洗车服务业务应判断为好车服产品。",
+        "options": null,
+        "fillSlots": null,
+        "answer": true,
+        "explanation": "好车服承接洗车、代驾、车险咨询等车生活服务。",
+        "proof": "好车服负责汽车安全检测、洗车、代驾、车险咨询等车生活服务。",
+        "score": 5
+      },
+      {
+        "subId": 2,
+        "type": "multiple",
+        "stem": "以下关于好车服的说法，哪些是正确的？",
+        "options": [
+          { "label": "A", "text": "好车服是卡控专属产品" },
+          { "label": "B", "text": "好车服是通用型产品" },
+          { "label": "C", "text": "好车服可以在星辰平台使用" },
+          { "label": "D", "text": "好车服承接洗车、代驾等服务" }
+        ],
+        "fillSlots": null,
+        "answer": ["A","D"],
+        "explanation": "B、C选项错误：好车服是卡控专属产品，只能在卡控平台使用。",
+        "proof": "智企推、好车服是卡控平台专属产品。",
+        "score": 5
+      },
+      {
+        "subId": 3,
+        "type": "fillBlank",
+        "stem": "卡控平台专属产品包括智企推和____。",
+        "options": null,
+        "fillSlots": [
+          { "slotId": 1, "placeholder": "____", "keywords": ["好车服"] }
+        ],
+        "answer": ["好车服"],
+        "explanation": "卡控平台有两个专属产品：智企推和好车服。",
+        "proof": "文档明确列出卡控平台专属产品为智企推、好车服。",
+        "score": 5
+      }
+    ],
+    "answer": [],
+    "explanation": "考察车生活服务产品识别、专属产品概念辨析和产品记忆。",
+    "proof": "参考文档好车服业务定义及卡控专属产品说明。"
+  },
+  {
+    "id": 304,
+    "type": "scenario",
+    "category": "综合场景",
+    "tags": ["保险营销","智企推","星辰"],
+    "difficulty": "进阶",
+    "stem": "保险精准营销场景分析",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": "某银行需要开展保险精准营销活动，通过星辰平台进行活动页面设计和用户触达配置，活动数据同步到卡控平台进行统一管理。",
+    "subQuestions": [
+      {
+        "subId": 1,
+        "type": "judge",
+        "stem": "保险精准营销业务应判断为智企推产品。",
+        "options": null,
+        "fillSlots": null,
+        "answer": true,
+        "explanation": "智企推承接保险精准营销、媒介投放、银行分期推广等业务。",
+        "proof": "智企推业务范围包括银行分期推广、媒介投放、保险精准营销、推广策划。",
+        "score": 5
+      },
+      {
+        "subId": 2,
+        "type": "multiple",
+        "stem": "以下关于智企推的说法，哪些是正确的？",
+        "options": [
+          { "label": "A", "text": "智企推是卡控专属产品" },
+          { "label": "B", "text": "智企推只能在卡控平台使用" },
+          { "label": "C", "text": "智企推承接营销推广类业务" },
+          { "label": "D", "text": "智企推不可以在星辰平台使用" }
+        ],
+        "fillSlots": null,
+        "answer": ["A","C"],
+        "explanation": "B、D选项错误：智企推是卡控专属产品，但可以在星辰平台使用（收入归星辰）。",
+        "proof": "专属产品是指产品归属某个平台，但可以在其他平台使用，收入归实际使用的平台。",
+        "score": 5
+      },
+      {
+        "subId": 3,
+        "type": "fillBlank",
+        "stem": "智企推承接的业务类型包括银行分期推广、媒介投放和____营销。",
+        "options": null,
+        "fillSlots": [
+          { "slotId": 1, "placeholder": "____", "keywords": ["保险精准","保险"] }
+        ],
+        "answer": ["保险精准"],
+        "explanation": "智企推承接三类主要业务：银行分期推广、媒介投放、保险精准营销。",
+        "proof": "文档明确列出智企推业务范围。",
+        "score": 5
+      }
+    ],
+    "answer": [],
+    "explanation": "考察保险营销产品识别、专属产品使用规则和业务范围记忆。",
+    "proof": "参考文档智企推业务定义及专属产品说明。"
+  },
+  {
+    "id": 305,
+    "type": "scenario",
+    "category": "综合场景",
+    "tags": ["外部直发","慧商通","赢商城"],
+    "difficulty": "进阶",
+    "stem": "外部直发场景分析",
+    "options": null,
+    "fillSlots": null,
+    "scenarioDesc": "某企业需要采购员工福利商品，直接由供应商发货到员工地址，不经过任何平台配置。财务部门需要记录该笔支出。",
+    "subQuestions": [
+      {
+        "subId": 1,
+        "type": "judge",
+        "stem": "外部直发业务应判断为慧商通产品，通过赢商城平台记录。",
+        "options": null,
+        "fillSlots": null,
+        "answer": true,
+        "explanation": "外部直发业务不经过平台配置，统一使用慧商通产品名称，通过赢商城记录。",
+        "proof": "外部直发场景：赢商城平台 + 慧商通产品名称。",
+        "score": 5
+      },
+      {
+        "subId": 2,
+        "type": "multiple",
+        "stem": "以下关于慧商通的说法，哪些是正确的？",
+        "options": [
+          { "label": "A", "text": "慧商通是赢商城专属产品" },
+          { "label": "B", "text": "慧商通是通用型产品" },
+          { "label": "C", "text": "慧商通用于B2B、B2C、C2C等交易模式" },
+          { "label": "D", "text": "外部直发业务收入归赢商城" }
+        ],
+        "fillSlots": null,
+        "answer": ["A","C","D"],
+        "explanation": "B选项错误：慧商通是赢商城专属产品，不是通用型产品。",
+        "proof": "慧商通归属赢商城，用于各类电商交易模式；外部直发通过赢商城记录。",
+        "score": 5
+      },
+      {
+        "subId": 3,
+        "type": "fillBlank",
+        "stem": "外部直发业务不经过平台配置，产品名称使用____。",
+        "options": null,
+        "fillSlots": [
+          { "slotId": 1, "placeholder": "____", "keywords": ["慧商通"] }
+        ],
+        "answer": ["慧商通"],
+        "explanation": "外部直发业务统一使用慧商通作为产品名称。",
+        "proof": "文档明确规定外部直发场景使用慧商通产品名称。",
+        "score": 5
+      }
+    ],
+    "answer": [],
+    "explanation": "考察外部直发场景识别、赢商城产品辨析和业务规则记忆。",
+    "proof": "参考文档外部直发场景说明及慧商通产品定义。"
+  }
+]

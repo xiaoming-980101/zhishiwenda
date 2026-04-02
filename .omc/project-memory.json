@@ -1,0 +1,209 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775126347635,
+  "projectRoot": "/Users/baobeizhenkeai/Desktop/zhishi/zhishiwenda",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": ">= 18",
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "tsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "vue",
+        "version": "3.5.24",
+        "category": "frontend"
+      },
+      {
+        "name": "vite",
+        "version": "5.4.21",
+        "category": "build"
+      }
+    ],
+    "packageManager": "pnpm",
+    "runtime": "Node.js 18"
+  },
+  "build": {
+    "buildCommand": "pnpm build",
+    "testCommand": null,
+    "lintCommand": "pnpm lint",
+    "devCommand": "pnpm dev",
+    "scripts": {
+      "dev": "vite",
+      "build": "run-s build-only type-check",
+      "preview": "vite preview",
+      "build-only": "vite build",
+      "type-check": "vue-tsc --noEmit",
+      "lint": "eslint .",
+      "lint:fix": "eslint . --fix",
+      "release": "standard-version",
+      "prepare": "husky install"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": "type-based"
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs",
+      "public",
+      "src"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "build": {
+      "path": "build",
+      "purpose": "Build output",
+      "fileCount": 1,
+      "lastAccessed": 1775126347574,
+      "keyFiles": [
+        "cdn.ts"
+      ]
+    },
+    "dist": {
+      "path": "dist",
+      "purpose": "Distribution/build output",
+      "fileCount": 3,
+      "lastAccessed": 1775126347581,
+      "keyFiles": [
+        "favicon.ico",
+        "index.html",
+        "index.html.gz"
+      ]
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 0,
+      "lastAccessed": 1775126347582,
+      "keyFiles": []
+    },
+    "mock": {
+      "path": "mock",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1775126347603,
+      "keyFiles": [
+        "list.mock.ts"
+      ]
+    },
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 1,
+      "lastAccessed": 1775126347605,
+      "keyFiles": [
+        "favicon.ico"
+      ]
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 3,
+      "lastAccessed": 1775126347606,
+      "keyFiles": [
+        "App.vue",
+        "main.ts",
+        "settings.ts"
+      ]
+    },
+    "dist/static": {
+      "path": "dist/static",
+      "purpose": "Static files",
+      "fileCount": 0,
+      "lastAccessed": 1775126347608,
+      "keyFiles": []
+    },
+    "docs/assets": {
+      "path": "docs/assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1775126347611,
+      "keyFiles": []
+    },
+    "src/api": {
+      "path": "src/api",
+      "purpose": "API routes",
+      "fileCount": 0,
+      "lastAccessed": 1775126347612,
+      "keyFiles": []
+    },
+    "src/assets": {
+      "path": "src/assets",
+      "purpose": "Static assets",
+      "fileCount": 4,
+      "lastAccessed": 1775126347612,
+      "keyFiles": [
+        "logo.svg",
+        "logo_melomini.png",
+        "logo_vue3.png"
+      ]
+    },
+    "src/components": {
+      "path": "src/components",
+      "purpose": "UI components",
+      "fileCount": 0,
+      "lastAccessed": 1775126347613,
+      "keyFiles": []
+    },
+    "src/data": {
+      "path": "src/data",
+      "purpose": "Data files",
+      "fileCount": 1,
+      "lastAccessed": 1775126347615,
+      "keyFiles": [
+        "exam.ts"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src/views/practice/index.vue",
+      "accessCount": 31,
+      "lastAccessed": 1775131669820,
+      "type": "file"
+    },
+    {
+      "path": "src/views/mock-exam/index.vue",
+      "accessCount": 27,
+      "lastAccessed": 1775128305953,
+      "type": "file"
+    },
+    {
+      "path": "src/data/exam.ts",
+      "accessCount": 1,
+      "lastAccessed": 1775126734849,
+      "type": "file"
+    },
+    {
+      "path": "src/router",
+      "accessCount": 1,
+      "lastAccessed": 1775128534441,
+      "type": "directory"
+    }
+  ],
+  "userDirectives": []
+}
